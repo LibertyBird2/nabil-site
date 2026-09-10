@@ -1,0 +1,114 @@
+{
+  "hero": {
+    "name": "Dr. Nabil Al-Sayed",
+    "title": "Law Lecturer, Legal Consultant & Researcher",
+    "subtitle": "Bridging Academic Rigor with High-Stakes Legal Advisory",
+    "academicAffiliation": "Associate Professor of Public Law & Legal Theory",
+    "consultingRole": "Senior International Dispute Resolution & Regulatory Consultant",
+    "summary": "Specializing in Constitutional Law, International Commercial Arbitration, and Legal Technology Regulation across MENA and International Jurisdictions.",
+    "stats": {
+      "publicationsCount": 35,
+      "yearsExperience": 18,
+      "casesConsulted": 120,
+      "studentsTrained": 4500
+    }
+  },
+  "bio": {
+    "headline": "Distinguished Scholar & Senior Practitioner",
+    "fullBio": [
+      "Dr. Nabil Al-Sayed is a renowned law lecturer, legal consultant, and published researcher with over 18 years of experience across academia and complex dispute resolution.",
+      "He serves as Associate Professor of Public Law, lecturing on Constitutional Law, Comparative Civil Jurisprudence, and Legal Methodologies. His scholarly work frequently appears in top-tier international journals including Oxford Law Review and Cambridge Legal Studies.",
+      "As a sought-after legal consultant, Dr. Al-Sayed has rendered expert legal opinions in high-profile international arbitrations (ICC, LCIA, DIAC) and advised sovereign entities on statutory drafting and regulatory reform."
+    ],
+    "education": [
+      {
+        "degree": "Ph.D. in Comparative Constitutional Law (Summa Cum Laude)",
+        "institution": "Sorbonne Law School / Cairo University",
+        "year": "2010"
+      },
+      {
+        "degree": "LL.M. in International Commercial Law",
+        "institution": "London School of Economics (LSE)",
+        "year": "2006"
+      },
+      {
+        "degree": "Bachelor of Laws (LL.B.)",
+        "institution": "Faculty of Law",
+        "year": "2004"
+      }
+    ],
+    "appointments": [
+      {
+        "role": "Associate Professor of Public & Administrative Law",
+        "organization": "Faculty of Law",
+        "period": "2018 - Present"
+      },
+      {
+        "role": "Senior Legal Advisory Fellow",
+        "organization": "Center for International Dispute Resolution",
+        "period": "2015 - Present"
+      },
+      {
+        "role": "Special Consultant on Legislative Drafting",
+        "organization": "Ministry of Justice Committee",
+        "period": "2020 - 2023"
+      }
+    ]
+  },
+  "expertiseAreas": [
+    {
+      "id": "exp-1",
+      "title": "Constitutional Law & Judicial Review",
+      "description": "In-depth expertise in constitutional interpretation, separation of powers, due process guarantees, and administrative review.",
+      "iconName": "Landmark",
+      "topics": ["Constitutional Litigation", "Administrative Law", "Human Rights"]
+    },
+    {
+      "id": "exp-2",
+      "title": "International Commercial Arbitration",
+      "description": "Advising arbitral tribunals and parties on choice of law, public policy enforcement, and arbitral procedural fairness.",
+      "iconName": "Gavel",
+      "topics": ["ICC / LCIA / DIAC Rules", "NY Convention 1958", "Expert Opinions"]
+    },
+    {
+      "id": "exp-3",
+      "title": "Legal Technology & AI Regulation",
+      "description": "Pioneering research and policy guidance on algorithmic accountability, smart contract enforceability, and governance of generative legal tools.",
+      "iconName": "Cpu",
+      "topics": ["AI Governance", "Data Privacy", "Digital Asset Law"]
+    },
+    {
+      "id": "exp-4",
+      "title": "Legislative Reform & Statutory Drafting",
+      "description": "Formulating statutory proposals and comparative benchmark studies for regulatory authorities and legislative bodies.",
+      "iconName": "ScrollText",
+      "topics": ["Drafting Techniques", "Comparative Law", "Regulatory Impact"]
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "test-1",
+      "quote": "Dr. Al-Sayed's expert legal report was decisive in our ICC arbitration. His thorough synthesis of Egyptian civil law was cited extensively in the final award.",
+      "authorName": "Partner, International Law Firm",
+      "authorTitle": "Co-Head of Global Arbitration",
+      "organization": "London & Dubai Office",
+      "category": "client"
+    },
+    {
+      "id": "test-2",
+      "quote": "An exemplary legal academic. His lectures on constitutional theory combine profound depth with practical clarity that empowers the next generation of jurists.",
+      "authorName": "Prof. Marcus Sterling",
+      "authorTitle": "Dean of Faculty of Law",
+      "organization": "International University",
+      "category": "academic"
+    },
+    {
+      "id": "test-3",
+      "quote": "The executive workshop on AI governance provided our legal department with an invaluable, actionable blueprint for regulatory compliance.",
+      "authorName": "General Counsel",
+      "authorTitle": "Group Legal Director",
+      "organization": "Regional Tech Holding Co.",
+      "category": "trainee"
+    }
+  ]
+}

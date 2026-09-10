@@ -1,0 +1,41 @@
+[
+  {
+    "id": "art-1",
+    "slug": "future-of-legal-tech-in-arbitration",
+    "title": "The Evolution of Virtual Arbitration Hearings: Procedural Fairness post-2024",
+    "excerpt": "Analyzing procedural challenges, evidence admissibility, and witness integrity in remote cross-border international arbitrations.",
+    "content": "Virtual arbitration has transitioned from an emergency countermeasure into a standard operational framework for international commercial dispute resolution. However, establishing procedural equality when parties operate across heterogeneous technological infrastructures requires rigorous judicial guidelines...",
+    "author": "Dr. Nabil Al-Sayed",
+    "publishedAt": "2024-08-15",
+    "readingTimeMinutes": 7,
+    "tags": ["Arbitration", "Legal Tech", "Procedure"],
+    "category": "Dispute Resolution",
+    "isFeatured": true
+  },
+  {
+    "id": "art-2",
+    "slug": "regulatory-sandboxes-fintech-mena",
+    "title": "Regulatory Sandboxes and Financial Technology Governance in the Gulf Region",
+    "excerpt": "How central banks in Riyadh, Abu Dhabi, and Doha are structuring regulatory sandboxes to balance financial stability with sovereign fintech innovation.",
+    "content": "Financial technology innovation operates at a speed that traditional legislative processes struggle to match. The introduction of regulatory sandboxes provides a controlled environment for testing novel financial instruments while maintaining statutory consumer protections...",
+    "author": "Dr. Nabil Al-Sayed",
+    "publishedAt": "2024-05-20",
+    "readingTimeMinutes": 10,
+    "tags": ["FinTech", "Banking Law", "MENA"],
+    "category": "Financial Law",
+    "isFeatured": true
+  },
+  {
+    "id": "art-3",
+    "slug": "constitutional-amendments-sovereign-wealth",
+    "title": "Sovereign Wealth Funds & Legislative Immunity: A Legal Review",
+    "excerpt": "A deep dive into state immunity doctrines and structural legal guarantees protecting sovereign investment vehicles in international courts.",
+    "content": "Sovereign Wealth Funds (SWFs) represent key economic engines in the Middle East. Litigating against or on behalf of SWFs involves nuanced applications of the Foreign Sovereign Immunities Act (FSIA) and restrictive immunity theories under international law...",
+    "author": "Dr. Nabil Al-Sayed",
+    "publishedAt": "2024-02-10",
+    "readingTimeMinutes": 12,
+    "tags": ["Sovereign Immunity", "Public International Law"],
+    "category": "International Law",
+    "isFeatured": false
+  }
+]

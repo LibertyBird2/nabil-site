@@ -1,0 +1,32 @@
+[
+  {
+    "id": "med-1",
+    "title": "Keynote: The Sovereign AI Legal Imperative at World Legal Summit",
+    "type": "keynote",
+    "publisher": "World Legal Summit 2024",
+    "date": "2024-07-12",
+    "summary": "Dr. Nabil Al-Sayed delivers the opening keynote on sovereign data protection and national AI regulation frameworks.",
+    "externalUrl": "https://example.com/keynote-world-legal-summit",
+    "isFeatured": true
+  },
+  {
+    "id": "med-2",
+    "title": "TV Interview: Analyzing New Amendments to Commercial Arbitration Codes",
+    "type": "interview",
+    "publisher": "Asharq Business / Bloomberg",
+    "date": "2024-04-18",
+    "summary": "In-depth television commentary on statutory reforms aimed at boosting foreign direct investment through arbitral stability.",
+    "externalUrl": "https://example.com/asharq-interview-arbitration",
+    "isFeatured": true
+  },
+  {
+    "id": "med-3",
+    "title": "Legal Podcast: Constitutional Rights in the Digital Age",
+    "type": "podcast",
+    "publisher": "The MENA Legal Podcast",
+    "date": "2024-01-25",
+    "summary": "A 45-minute discussion on data privacy legislation, digital surveillance boundaries, and civil liberties.",
+    "externalUrl": "https://example.com/podcast-constitutional-rights",
+    "isFeatured": false
+  }
+]

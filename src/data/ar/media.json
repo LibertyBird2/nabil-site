@@ -1,0 +1,32 @@
+[
+  {
+    "id": "med-1",
+    "title": "كلمة رئيسية: الضرورة القانونية للذكاء الاصطناعي السيادي في القمة القانونية العالمية",
+    "type": "keynote",
+    "publisher": "القمة القانونية العالمية 2024",
+    "date": "2024-07-12",
+    "summary": "يلقي الدكتور نبيل السيد الكلمة الافتتاحية حول حماية البيانات السيادية وأطر تنظيم الذكاء الاصطناعي الوطني.",
+    "externalUrl": "https://example.com/keynote-world-legal-summit-ar",
+    "isFeatured": true
+  },
+  {
+    "id": "med-2",
+    "title": "لقاء تلفزيوني: تحليل التعديلات الجديدة على تشريعات التحكيم التجاري",
+    "type": "interview",
+    "publisher": "قناة الشرق مع بلومبرغ",
+    "date": "2024-04-18",
+    "summary": "تحليل تلفزيوني موسع للتعديلات التشريعية الهادفة لتعزيز الاستثمار الأجنبي المباشر عبر استقرار البيئة التحكيمية.",
+    "externalUrl": "https://example.com/asharq-interview-arbitration-ar",
+    "isFeatured": true
+  },
+  {
+    "id": "med-3",
+    "title": "بودكاست قانوني: الحقوق الدستورية في العصر الرقمي",
+    "type": "podcast",
+    "publisher": "بودكاست القانون العربي",
+    "date": "2024-01-25",
+    "summary": "حوار استغرق 45 دقيقة حول تشريعات حماية حظر البيانات الشخصية وحدود الرقابة الرقمية والحريات المدنية.",
+    "externalUrl": "https://example.com/podcast-constitutional-rights-ar",
+    "isFeatured": false
+  }
+]

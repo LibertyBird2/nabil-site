@@ -1,0 +1,56 @@
+[
+  {
+    "id": "trn-1",
+    "slug": "advanced-international-arbitration-masterclass",
+    "title": "Advanced International Commercial Arbitration Masterclass",
+    "category": "Professional Legal Education",
+    "duration": "3 Days (18 Hours)",
+    "targetAudience": "Senior Legal Counsel, Arbitrators, Litigation Partners",
+    "overview": "An intensive executive program focusing on evidentiary proceedings, procedural tactics, cross-examination, and award drafting under ICC & UNCITRAL rules.",
+    "learningOutcomes": [
+      "Master procedural order drafting and document production requests (IBA Rules)",
+      "Conduct effective expert witness cross-examinations",
+      "Analyze grounds for setting aside awards in MENA jurisdictions"
+    ],
+    "modules": [
+      {
+        "title": "Module 1: Constitution of the Tribunal & Jurisdictional Objections",
+        "description": "Handling Kompetenz-Kompetenz disputes and emergency arbitrator applications."
+      },
+      {
+        "title": "Module 2: Evidence, Hearings, & Redfern Schedules",
+        "description": "Managing complex document production and virtual hearing protocols."
+      },
+      {
+        "title": "Module 3: Award Drafting & Post-Award Strategy",
+        "description": "Ensuring enforceability and resisting annulment applications."
+      }
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "trn-2",
+    "slug": "legal-tech-ai-for-jurists",
+    "title": "Legal Technology & AI for Modern Practitioners",
+    "category": "Legal Innovation",
+    "duration": "2 Days (12 Hours)",
+    "targetAudience": "Judges, Corporate Legal Directors, Academic Researchers",
+    "overview": "Bridge the gap between legal practice and artificial intelligence. Learn how LLMs, predictive analytics, and automated compliance tools transform legal workflows responsibly.",
+    "learningOutcomes": [
+      "Understand the mechanics of Large Language Models in legal drafting",
+      "Evaluate algorithmic bias and confidentiality concerns in legal tech",
+      "Design AI-augmented research and discovery workflows"
+    ],
+    "modules": [
+      {
+        "title": "Module 1: Foundations of Legal Tech & AI Ethics",
+        "description": "Core concepts, prompt engineering, and ethical boundaries."
+      },
+      {
+        "title": "Module 2: Practical Applications in Legal Drafting & Research",
+        "description": "Hands-on exercises with contract analysis and legal search tools."
+      }
+    ],
+    "isFeatured": true
+  }
+]

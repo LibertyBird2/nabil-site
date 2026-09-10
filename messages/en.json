@@ -1,0 +1,125 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About & Bio",
+    "research": "Research & Publications",
+    "articles": "Legal Insights",
+    "services": "Legal Services",
+    "training": "Training Programs",
+    "media": "Media & Events",
+    "contact": "Contact",
+    "bookConsultation": "Book Consultation"
+  },
+  "common": {
+    "viewAll": "View All",
+    "readMore": "Read Full Article",
+    "downloadPdf": "Download PDF Paper",
+    "copyCitation": "Cite Publication",
+    "search": "Search...",
+    "searchPlaceholder": "Search publications, topics, or keywords...",
+    "filter": "Filter by Category",
+    "all": "All",
+    "publishedIn": "Published in",
+    "year": "Year",
+    "authors": "Authors",
+    "doi": "DOI Reference",
+    "readingTime": "{minutes} min read",
+    "deliverables": "Key Deliverables",
+    "targetAudience": "Target Audience",
+    "requestService": "Inquire About Service",
+    "enrollProgram": "Request Syllabus / Enroll",
+    "close": "Close",
+    "copied": "Copied to Clipboard!",
+    "noResults": "No results found matching your search criteria."
+  },
+  "home": {
+    "heroTag": "Legal Scholarship & Executive Advisory",
+    "heroTitle": "Dr. Nabil Al-Sayed",
+    "heroSubtitle": "Law Lecturer, International Legal Consultant & Senior Legal Researcher",
+    "stats": {
+      "publications": "Publications & Papers",
+      "experience": "Years Experience",
+      "cases": "Consultations & Opinions",
+      "students": "Students & Jurists Trained"
+    },
+    "ctaPrimary": "Explore Research",
+    "ctaSecondary": "Consultation Services",
+    "bioTitle": "Biography & Academic Trajectory",
+    "bioSubtitle": "Blending rigorous civil law scholarship with international commercial expertise.",
+    "expertiseTitle": "Areas of Expertise",
+    "expertiseSubtitle": "Specialized legal knowledge spanning public law, international arbitration, and emerging technology.",
+    "servicesTitle": "Legal Advisory Services",
+    "servicesSubtitle": "High-impact legal consultations and expert testimony for law firms, corporations, and governments.",
+    "featuredResearchTitle": "Featured Research Publications",
+    "featuredResearchSubtitle": "Peer-reviewed studies contributing to modern constitutional jurisprudence and commercial law.",
+    "latestArticlesTitle": "Latest Legal Insights",
+    "latestArticlesSubtitle": "Analytical commentary on contemporary legal developments and regulatory shifts.",
+    "mediaTitle": "Media & Keynote Appearances",
+    "mediaSubtitle": "Public lectures, television commentary, and international academic keynotes.",
+    "testimonialsTitle": "Endorsements & Testimonials",
+    "testimonialsSubtitle": "What international partners, academic colleagues, and legal counsel say.",
+    "contactCtaTitle": "Require Authoritative Legal Counsel or Academic Advisory?",
+    "contactCtaSubtitle": "Get in touch to discuss expert legal opinions, arbitration advisory, or executive training.",
+    "contactCtaBtn": "Schedule a Consultation"
+  },
+  "about": {
+    "title": "About Dr. Nabil Al-Sayed",
+    "subtitle": "Academic background, teaching philosophy, and advisory credentials.",
+    "academicPositions": "Academic Appointments",
+    "education": "Education & Academic Degrees",
+    "teachingPhilosophyTitle": "Teaching Philosophy & Pedagogy",
+    "teachingPhilosophyText": "Legal education should not merely transmit statutory knowledge; it must cultivate analytical rigor, ethical courage, and dynamic statutory interpretation. My methodology trains jurists to analyze legal problems through comparative civil law frameworks while adapting to technological disruption."
+  },
+  "research": {
+    "title": "Research Publications & Papers",
+    "subtitle": "Explore peer-reviewed journal papers, monographs, and policy briefs.",
+    "citationModalTitle": "Publication Citation Exporter",
+    "apa": "APA Format (7th Edition)",
+    "chicago": "Chicago Manual of Style",
+    "bibtex": "BibTeX Entry"
+  },
+  "articles": {
+    "title": "Legal Insights & Articles",
+    "subtitle": "Analytical commentary and thought leadership on regulatory reforms and international law."
+  },
+  "services": {
+    "title": "Legal Advisory & Consulting Services",
+    "subtitle": "Authoritative legal opinions, expert witness testimony, and legislative drafting.",
+    "consultationTitle": "Consultation Request",
+    "consultationDesc": "Fill out the form below to request a formal legal consultation or expert opinion."
+  },
+  "training": {
+    "title": "Executive Training & Workshops",
+    "subtitle": "Masterclasses designed for judges, legal counsel, and corporate directors."
+  },
+  "media": {
+    "title": "Media, Lectures & Events",
+    "subtitle": "Press commentary, keynote addresses, and academic conferences."
+  },
+  "contact": {
+    "title": "Contact & Booking",
+    "subtitle": "Reach out for legal opinions, speaking engagements, or academic inquiries.",
+    "formTitle": "Send a Message",
+    "name": "Full Name",
+    "namePlaceholder": "Counsel Jane Doe",
+    "email": "Email Address",
+    "emailPlaceholder": "counsel@firm.com",
+    "subject": "Subject",
+    "subjectPlaceholder": "Expert Legal Opinion Inquiry",
+    "serviceType": "Inquiry Type",
+    "message": "Detailed Description of Inquiry",
+    "messagePlaceholder": "Provide a brief summary of your legal matter or invitation...",
+    "submit": "Submit Message",
+    "sending": "Sending...",
+    "success": "Thank you. Your message has been received. Dr. Al-Sayed's chambers will respond shortly.",
+    "officeInfo": "Chambers & Academic Office",
+    "address": "Faculty of Law / Legal Advisory Chambers",
+    "workingHours": "Office Hours: Mon - Thu, 09:00 - 17:00 (GST)"
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "tagline": "Academic Legal Research & International Legal Consulting.",
+    "quickLinks": "Quick Navigation",
+    "legalDisclaimer": "Disclaimer: Information on this site is provided for academic and professional informational purposes and does not constitute a formal attorney-client relationship until a engagement contract is executed."
+  }
+}

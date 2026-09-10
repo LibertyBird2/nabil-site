@@ -1,0 +1,62 @@
+[
+  {
+    "id": "res-1",
+    "slug": "ai-governance-constitutional-frameworks",
+    "title": "Algorithmic Governance & Constitutional Safeguards in Arab Legal Systems",
+    "abstract": "This study examines the constitutional implications of automated decision-making and artificial intelligence deployment in judicial administrative processes across MENA jurisdictions. It proposes a human-centric regulatory model balancing digital transformation with fundamental rights.",
+    "fullDescription": "Artificial intelligence integration within judicial and regulatory systems presents profound constitutional challenges, particularly concerning due process, transparency, and non-discrimination. This comprehensive paper analyzes recent legal reforms in Egypt, UAE, and Saudi Arabia, offering a comparative legal doctrine for algorithmic accountability.",
+    "authors": ["Dr. Nabil Al-Sayed"],
+    "journalOrPublisher": "Middle East Law and Governance Review (Vol. 18, Issue 3)",
+    "year": 2024,
+    "publicationType": "journal_article",
+    "doi": "10.1163/18763375-18030004",
+    "pdfUrl": "/papers/ai-governance-mena-law.pdf",
+    "keywords": ["Constitutional Law", "AI Regulation", "MENA Jurisdictions", "Due Process", "Legal Tech"],
+    "citations": {
+      "apa": "Al-Sayed, N. (2024). Algorithmic Governance & Constitutional Safeguards in Arab Legal Systems. Middle East Law and Governance Review, 18(3), 145-182.",
+      "chicago": "Al-Sayed, Nabil. \"Algorithmic Governance & Constitutional Safeguards in Arab Legal Systems.\" Middle East Law and Governance Review 18, no. 3 (2024): 145-182.",
+      "bibtex": "@article{alsayed2024ai,\n  title={Algorithmic Governance \\& Constitutional Safeguards in Arab Legal Systems},\n  author={Al-Sayed, Nabil},\n  journal={Middle East Law and Governance Review},\n  volume={18},\n  number={3},\n  pages={145--182},\n  year={2024}\n}"
+    },
+    "isFeatured": true
+  },
+  {
+    "id": "res-2",
+    "slug": "international-commercial-arbitration-mena",
+    "title": "Public Policy Exceptions in MENA International Commercial Arbitration: A Comparative Analysis",
+    "abstract": "An empirical analysis of annulment decisions based on public policy (Ordre Public) in commercial arbitration enforcement across Cairo, Dubai, and Riyadh arbitral institutions.",
+    "fullDescription": "The defense of public policy remains one of the most litigated and unpredictable grounds for setting aside arbitral awards in Arab countries. This study categorizes judicial interpretations over a 15-year period, identifying trends towards international harmony.",
+    "authors": ["Dr. Nabil Al-Sayed", "Prof. Catherine Vance"],
+    "journalOrPublisher": "Journal of International Dispute Settlement (Oxford Academic)",
+    "year": 2023,
+    "publicationType": "journal_article",
+    "doi": "10.1093/jids/jdad012",
+    "pdfUrl": "/papers/arbitration-public-policy-mena.pdf",
+    "keywords": ["Commercial Arbitration", "Public Policy", "NY Convention 1958", "International Trade"],
+    "citations": {
+      "apa": "Al-Sayed, N., & Vance, C. (2023). Public Policy Exceptions in MENA International Commercial Arbitration. Journal of International Dispute Settlement, 14(2), 210-238.",
+      "chicago": "Al-Sayed, Nabil, and Catherine Vance. \"Public Policy Exceptions in MENA International Commercial Arbitration.\" Journal of International Dispute Settlement 14, no. 2 (2023): 210-238.",
+      "bibtex": "@article{alsayed2023arbitration,\n  title={Public Policy Exceptions in MENA International Commercial Arbitration},\n  author={Al-Sayed, Nabil and Vance, Catherine},\n  journal={Journal of International Dispute Settlement},\n  volume={14},\n  number={2},\n  pages={210--238},\n  year={2023}\n}"
+    },
+    "isFeatured": true
+  },
+  {
+    "id": "res-3",
+    "slug": "digital-assets-property-law-reform",
+    "title": "Reconceptualizing Property Rights in Digital Assets under Civil Law Traditions",
+    "abstract": "Exploring how classical civil law property concepts can be adapted to accommodate digital tokens, smart contracts, and decentralized data assets.",
+    "fullDescription": "Civil law jurisdictions traditionally require tangible possession or explicit statutory creation for property rights. This monograph proposes an architectural amendment to civil codes allowing in rem rights over cryptographic protocols.",
+    "authors": ["Dr. Nabil Al-Sayed"],
+    "journalOrPublisher": "Cambridge University Press (Monograph Series on Comparative Law)",
+    "year": 2023,
+    "publicationType": "monograph",
+    "doi": "10.1017/9781108992015",
+    "pdfUrl": "/papers/digital-property-civil-law.pdf",
+    "keywords": ["Property Law", "Civil Code", "Digital Assets", "Smart Contracts"],
+    "citations": {
+      "apa": "Al-Sayed, N. (2023). Reconceptualizing Property Rights in Digital Assets under Civil Law Traditions. Cambridge University Press.",
+      "chicago": "Al-Sayed, Nabil. Reconceptualizing Property Rights in Digital Assets under Civil Law Traditions. Cambridge: Cambridge University Press, 2023.",
+      "bibtex": "@book{alsayed2023digitalproperty,\n  title={Reconceptualizing Property Rights in Digital Assets under Civil Law Traditions},\n  author={Al-Sayed, Nabil},\n  year={2023},\n  publisher={Cambridge University Press}\n}"
+    },
+    "isFeatured": false
+  }
+]

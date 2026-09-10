@@ -1,0 +1,47 @@
+[
+  {
+    "id": "srv-1",
+    "slug": "legal-opinions-advisory",
+    "title": "Formal Legal Opinions & Strategic Consultation",
+    "shortDescription": "Authoritative legal opinions on complex constitutional, regulatory, and cross-border commercial issues for multinational corporations and state bodies.",
+    "fullDescription": "Providing rigorous, authoritative legal analysis tailored for high-stakes litigation, regulatory compliance, and policy formulation. Specializing in constitutional interpretation, administrative review, and contract validity under civil law systems.",
+    "iconName": "Scale",
+    "deliverables": [
+      "Written Legal Opinions with Comparative Citation",
+      "Regulatory Impact Assessments",
+      "Risk Mitigation Frameworks"
+    ],
+    "targetAudience": ["Law Firms", "Government Entities", "Multinational Corporations"],
+    "isFeatured": true
+  },
+  {
+    "id": "srv-2",
+    "slug": "arbitration-advisory-expert-witness",
+    "title": "Arbitration Expert Witness & Tribunal Advisory",
+    "shortDescription": "Serving as expert witness on Arab laws in international arbitrations (ICC, LCIA, DIAC, CRCICA) and foreign enforcement litigation.",
+    "fullDescription": "Offering expert testimony and legal reports on the laws of Egypt, Saudi Arabia, UAE, and Qatar. Expert in proving domestic legal principles before international arbitral tribunals and foreign courts.",
+    "iconName": "Gavel",
+    "deliverables": [
+      "Expert Witness Reports (English & Arabic)",
+      "Cross-Examination Testimony",
+      "Enforceability Reviews under NY Convention"
+    ],
+    "targetAudience": ["International Arbitration Counsel", "Arbitral Tribunals"],
+    "isFeatured": true
+  },
+  {
+    "id": "srv-3",
+    "slug": "legislative-drafting-policy-reform",
+    "title": "Legislative Drafting & Policy Advisory",
+    "shortDescription": "Drafting statutory proposals, executive regulations, and institutional governance frameworks for regulatory authorities.",
+    "fullDescription": "Assisting government ministries and judicial authorities in modernizing statutory instruments, incorporating international best practices while preserving local constitutional traditions.",
+    "iconName": "FileText",
+    "deliverables": [
+      "Draft Legislation & Executive Regulations",
+      "Comparative Legal Benchmarking Reports",
+      "Stakeholder Consultation Briefs"
+    ],
+    "targetAudience": ["Ministries", "Regulatory Agencies", "International Organizations"],
+    "isFeatured": true
+  }
+]
