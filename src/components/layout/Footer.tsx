@@ -5,8 +5,7 @@ import { Container } from '../shared/Container';
 import { Scale, Mail, MapPin, Award } from 'lucide-react';
 
 export const Footer: React.FC = () => {
-  const t = useTranslations('footer');
-  const tNav = useTranslations('nav');
+  const t = useTranslations();
   const currentYear = new Date().getFullYear();
 
   return (
@@ -20,11 +19,11 @@ export const Footer: React.FC = () => {
                 <Scale className="w-5 h-5" />
               </div>
               <span className="font-serif text-xl font-bold text-white">
-                {tNav('home') === 'Home' ? 'Dr. Nabil Al-Sayed' : 'د. نبيل السيد'}
+                {t('title')}
               </span>
             </div>
             <p className="text-sm text-slate-400 leading-relaxed">
-              {t('tagline')}
+              {t('footer.tagline')}
             </p>
             <div className="flex items-center gap-2 text-xs text-gold-400 font-semibold">
               <Award className="w-4 h-4" />
@@ -35,32 +34,32 @@ export const Footer: React.FC = () => {
           {/* Column 2: Quick Links */}
           <div className="space-y-4">
             <h4 className="font-serif text-base font-semibold text-white uppercase tracking-wider border-b border-navy-800 pb-2">
-              {t('quickLinks')}
+              {t('footer.quickLinks')}
             </h4>
             <ul className="space-y-2 text-sm">
               <li>
                 <Link href="/about" className="hover:text-gold-400 transition-colors">
-                  {tNav('about')}
+                  {t('nav.about')}
                 </Link>
               </li>
               <li>
                 <Link href="/research" className="hover:text-gold-400 transition-colors">
-                  {tNav('research')}
+                  {t('nav.research')}
                 </Link>
               </li>
               <li>
                 <Link href="/articles" className="hover:text-gold-400 transition-colors">
-                  {tNav('articles')}
+                  {t('nav.articles')}
                 </Link>
               </li>
               <li>
                 <Link href="/services" className="hover:text-gold-400 transition-colors">
-                  {tNav('services')}
+                  {t('nav.services')}
                 </Link>
               </li>
               <li>
                 <Link href="/training" className="hover:text-gold-400 transition-colors">
-                  {tNav('training')}
+                  {t('nav.training')}
                 </Link>
               </li>
             </ul>
@@ -89,14 +88,14 @@ export const Footer: React.FC = () => {
               Legal Notice
             </h4>
             <p className="text-xs text-slate-400 leading-relaxed bg-navy-900/60 p-3 rounded-lg border border-navy-800">
-              {t('legalDisclaimer')}
+              {t('footer.legalDisclaimer')}
             </p>
           </div>
         </div>
 
         {/* Bottom Bar */}
         <div className="pt-8 border-t border-navy-800 text-xs text-center md:flex md:justify-between text-slate-500">
-          <p>© {currentYear} Dr. Nabil Al-Sayed. {t('rights')}</p>
+          <p>© {currentYear} {t('title')}. {t('footer.rights')}</p>
           <p className="mt-2 md:mt-0">Designed for High-Performance Legal & Academic Excellence.</p>
         </div>
       </Container>

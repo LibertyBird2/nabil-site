@@ -7,14 +7,14 @@ import { Button } from '@/components/ui/Button';
 import { Link } from '@/i18n/routing';
 import { GraduationCap, Award, Briefcase, ArrowRight, ArrowLeft } from 'lucide-react';
 import { useLocale, useTranslations } from 'next-intl';
+import { Yesteryear } from 'next/font/google';
 
 export interface BioSummarySectionProps {
   bio: BioSummary;
 }
 
 export const BioSummarySection: React.FC<BioSummarySectionProps> = ({ bio }) => {
-  const t = useTranslations('home');
-  const tCommon = useTranslations('common');
+  const t = useTranslations();
   const locale = useLocale();
   const isRtl = locale === 'ar';
 
@@ -22,9 +22,9 @@ export const BioSummarySection: React.FC<BioSummarySectionProps> = ({ bio }) => 
     <section className="py-20 bg-slate-50 border-b border-slate-200">
       <Container>
         <SectionHeader
-          tag={t('bioTitle')}
+          tag={t('home.bioTitle')}
           title={bio.headline}
-          subtitle={t('bioSubtitle')}
+          subtitle={t('home.bioSubtitle')}
         />
 
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-10 items-start">
@@ -38,7 +38,7 @@ export const BioSummarySection: React.FC<BioSummarySectionProps> = ({ bio }) => 
             <div className="pt-4">
               <Link href="/about">
                 <Button variant="outline" size="md">
-                  <span>{tCommon('readMore')}</span>
+                  <span>{t('common.readMore')}</span>
                   {isRtl ? <ArrowLeft className="w-4 h-4" /> : <ArrowRight className="w-4 h-4" />}
                 </Button>
               </Link>
@@ -52,7 +52,7 @@ export const BioSummarySection: React.FC<BioSummarySectionProps> = ({ bio }) => 
                 <div className="p-2 bg-gold-100 rounded-lg text-gold-700">
                   <Briefcase className="w-5 h-5" />
                 </div>
-                <h3 className="font-serif text-lg font-bold text-navy-950">Appointments & Roles</h3>
+                <h3 className="font-serif text-lg font-bold text-navy-950">{t('about.academicPositions')}</h3>
               </div>
               <ul className="space-y-3 divide-y divide-slate-100">
                 {bio.appointments.map((item, idx) => (
@@ -69,7 +69,7 @@ export const BioSummarySection: React.FC<BioSummarySectionProps> = ({ bio }) => 
                 <div className="p-2 bg-navy-100 rounded-lg text-navy-900">
                   <Award className="w-5 h-5" />
                 </div>
-                <h3 className="font-serif text-lg font-bold text-navy-950">Education & Degrees</h3>
+                <h3 className="font-serif text-lg font-bold text-navy-950">{t('about.education')}</h3>
               </div>
               <ul className="space-y-3 divide-y divide-slate-100">
                 {bio.education.map((edu, idx) => (

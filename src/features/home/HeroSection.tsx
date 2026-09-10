@@ -60,7 +60,7 @@ export const HeroSection: React.FC<HeroSectionProps> = ({ data }) => {
           {/* Academic Crest & Credentials Card */}
           <div className="lg:col-span-4">
             <div className="glass-panel-dark p-8 rounded-2xl border border-gold-500/30 shadow-2xl relative">
-              <div className="w-16 h-16 rounded-2xl bg-gold-500/20 text-gold-400 flex items-center justify-center mb-6 border border-gold-500/40">
+              {/* <div className="w-16 h-16 rounded-2xl bg-gold-500/20 text-gold-400 flex items-center justify-center mb-6 border border-gold-500/40">
                 <Scale className="w-8 h-8" />
               </div>
               <h3 className="font-serif text-xl font-bold text-white mb-2">
@@ -68,10 +68,10 @@ export const HeroSection: React.FC<HeroSectionProps> = ({ data }) => {
               </h3>
               <p className="text-xs text-gold-400 font-semibold uppercase tracking-wider mb-6">
                 {data.consultingRole}
-              </p>
+              </p> */}
 
               {/* Stats Grid */}
-              <div className="grid grid-cols-2 gap-4 pt-4 border-t border-slate-800">
+              <div className="grid grid-cols-2 gap-4 pt-4 borr-t border-slate-800">
                 <div>
                   <div className="flex items-center gap-1.5 text-gold-400 mb-1">
                     <BookOpen className="w-4 h-4" />
@@ -86,7 +86,7 @@ export const HeroSection: React.FC<HeroSectionProps> = ({ data }) => {
                   </div>
                   <span className="text-xs text-slate-400">{t('stats.experience')}</span>
                 </div>
-                <div>
+                {/* <div>
                   <div className="flex items-center gap-1.5 text-gold-400 mb-1">
                     <Scale className="w-4 h-4" />
                     <span className="text-2xl font-serif font-bold">{data.stats.casesConsulted}+</span>
@@ -99,7 +99,7 @@ export const HeroSection: React.FC<HeroSectionProps> = ({ data }) => {
                     <span className="text-2xl font-serif font-bold">{data.stats.studentsTrained}+</span>
                   </div>
                   <span className="text-xs text-slate-400">{t('stats.students')}</span>
-                </div>
+                </div> */}
               </div>
             </div>
           </div>

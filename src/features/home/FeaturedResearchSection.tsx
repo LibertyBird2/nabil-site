@@ -47,15 +47,15 @@ export const FeaturedResearchSection: React.FC<FeaturedResearchSectionProps> = (
                   </span>
                 </div>
 
-                <h3 className="font-serif text-xl font-bold text-white mb-3 leading-snug">
+                <h3 className="font-serif text-xl font-bold text-gold-500 mb-3 leading-snug">
                   {item.title}
                 </h3>
 
-                <p className="text-xs text-slate-400 font-semibold mb-4 italic">
+                <p className="text-xs text-slate-500 font-semibold mb-4 italic">
                   {item.journalOrPublisher}
                 </p>
 
-                <p className="text-sm text-slate-300 leading-relaxed line-clamp-3 mb-6">
+                <p className="text-sm text-slate-600 leading-relaxed line-clamp-3 mb-6">
                   {item.abstract}
                 </p>
               </div>

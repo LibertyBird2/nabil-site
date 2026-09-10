@@ -9,19 +9,19 @@ import { Container } from '../shared/Container';
 import { Scale, Menu, X } from 'lucide-react';
 
 export const Header: React.FC = () => {
-  const t = useTranslations('nav');
+  const t = useTranslations();
   const pathname = usePathname();
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
 
   const navLinks = [
-    { href: '/', label: t('home') },
-    { href: '/about', label: t('about') },
-    { href: '/research', label: t('research') },
-    { href: '/articles', label: t('articles') },
-    { href: '/services', label: t('services') },
-    { href: '/training', label: t('training') },
-    { href: '/media', label: t('media') },
-    { href: '/contact', label: t('contact') },
+    { href: '/', label: t('nav.home') },
+    { href: '/about', label: t('nav.about') },
+    { href: '/research', label: t('nav.research') },
+    // { href: '/articles', label: t('nav.articles') },
+    { href: '/services', label: t('nav.services') },
+    // { href: '/training', label: t('nav.training') },
+    // { href: '/media', label: t('nav.media') },
+    { href: '/contact', label: t('nav.contact') },
   ];
 
   const isActive = (href: string) => {
@@ -40,10 +40,10 @@ export const Header: React.FC = () => {
             </div>
             <div className="flex flex-col">
               <span className="font-serif text-lg font-bold tracking-tight text-navy-950 dark:text-white leading-tight">
-                {t('home') === 'Home' ? 'Dr. Nabil Al-Sayed' : 'د. نبيل السيد'}
+                {t('title')}
               </span>
-              <span className="text-[10px] uppercase tracking-wider text-slate-500 dark:text-slate-400 font-sans font-semibold">
-                {t('home') === 'Home' ? 'Legal Scholar & Consultant' : 'أستاذ ومستشار قانوني'}
+              <span className="hidden sm:block text-[11px] uppercase tracking-wider text-slate-500 dark:text-slate-400 font-sans font-semibold">
+                {t('subtitle')}
               </span>
             </div>
           </Link>
@@ -70,7 +70,7 @@ export const Header: React.FC = () => {
             <LanguageSwitcher />
             <Link href="/contact">
               <Button variant="gold" size="sm">
-                {t('bookConsultation')}
+                {t('nav.bookConsultation')}
               </Button>
             </Link>
           </div>

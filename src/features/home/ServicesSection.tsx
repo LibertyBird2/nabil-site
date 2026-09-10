@@ -27,11 +27,11 @@ export const ServicesSection: React.FC<ServicesSectionProps> = ({ services }) =>
   return (
     <section className="py-20 bg-white border-b border-slate-200">
       <Container>
-        <SectionHeader
+        {/* <SectionHeader
           tag="Legal Advisory & Consulting"
           title={t('servicesTitle')}
           subtitle={t('servicesSubtitle')}
-        />
+        /> */}
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           {services.map((srv) => (
